@@ -1,0 +1,31 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "title": "Colgate Kids Toothpaste Pump, Maximum Cavity Protection",
+      "subtitle": "4.4 ounces (6 Pack)",
+      "price": "$17.76",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/91ZEZc-n-CL._SL1500_.jpg",
+      "url": "www.amazon.com/Colgate-Maximum-Cavity-Protection-Toothpaste/dp/B07DT7M9BS",
+      "category": 4
+    },
+    {
+      "id": 2,
+      "title": "Tanner's Tasty Paste Anticavity Fluoride Children’s Toothpaste",
+      "subtitle": "Vanilla Bling, 4.2 Ounce",
+      "price": "$6.99",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41TDLSQ-n8L._AC_.jpg",
+      "url": "https://www.amazon.com/dp/B015ZRTHVA",
+      "category": 4
+    },
+    {
+      "id": 3,
+      "title": "Coffee: A Global History (Edible)",
+      "subtitle": "",
+      "price": "$14.73",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41ZF2MXdRZL._SX303_BO1,204,203,200_.jpg",
+      "url": "https://www.amazon.com/Coffee-Global-History-Jonathan-Morris/dp/1789140021",
+      "category": 5
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+    "items": [
+      {
+        "id": 1,
+        "title": "Colgate Kids Toothpaste Pump, Maximum Cavity Protection",
+        "subtitle": "4.4 ounces (6 Pack)",
+        "price": "$17.76",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/91ZEZc-n-CL._SL1500_.jpg",
+        "url": "www.amazon.com/Colgate-Maximum-Cavity-Protection-Toothpaste/dp/B07DT7M9BS",
+        "category": 4
+      },
+      {
+        "id": 2,
+        "title": "Tanner's Tasty Paste Anticavity Fluoride Children’s Toothpaste",
+        "subtitle": "Vanilla Bling, 4.2 Ounce",
+        "price": "$6.99",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/41TDLSQ-n8L._AC_.jpg",
+        "url": "https://www.amazon.com/dp/B015ZRTHVA",
+        "category": 4
+      },
+      {
+        "id": 3,
+        "title": "Coffee: A Global History (Edible)",
+        "subtitle": "",
+        "price": "$14.73",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/41ZF2MXdRZL._SX303_BO1,204,203,200_.jpg",
+        "url": "https://www.amazon.com/Coffee-Global-History-Jonathan-Morris/dp/1789140021",
+        "category": 5
+      },
+      {
+        "id": 4,
+        "title": "Guay Clean Microfiber Flat Mop with Hands-Free Self-Squeeze Bucket - 360 Rotating Spin Mop Head - Multi-Purpose Wet and Dry Quick Cleaner - All Floor Types - For Dirt Grime Lint and Spills",
+        "subtitle": "Blue",
+        "price": "$32.99",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/71%2BaLc5a79L._SL1500_.jpg",
+        "url": "https://www.amazon.com/dp/B07YZSQVPC",
+        "category": 16
+      },
+      {
+        "id": 5,
+        "title": "T-fal E76598 Ultimate Hard Anodized Nonstick 12 Inch Fry Pan with Lid, Dishwasher Safe Frying Pan",
+        "subtitle": "Black",
+        "price": "$22.80",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/81CnyAhKtXL._SL1500_.jpg",
+        "url": "https://www.amazon.com/T-fal-Ultimate-Anodized-Nonstick-Dishwasher/dp/B00EXLOVU2",
+        "category": 17
+      },
+      {
+        "id": 6,
+        "title": "Amuvec Multi USB Charging Cable 3A, 4 in1 Fast Charger Cord Connector with Dual Phone/Type C/Micro USB Port Adapter, Compatible with Tablets/Samsung Galaxy/Google Pixel/LG and More",
+        "subtitle": "(4FT/2Pack)",
+        "price": "$9.90",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/71D7qhx-X%2BL._SL1500_.jpg",
+        "url": "https://www.amazon.com/Amuvec-Charging-Charger-Connector-Compatible/dp/B07VCBZF1Q",
+        "category": 15
+      }
+    ]
+  }

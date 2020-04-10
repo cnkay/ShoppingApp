@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ShoppingApp</string>
+    <string name="str_no_internet">No internet connection!</string>
+    <string name="ok">Okay</string>
+    <string name="str_no_product">No new products!</string>
+    <string name="str_new_product">New products added!</string>
+</resources>

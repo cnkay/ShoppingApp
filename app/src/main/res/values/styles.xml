@@ -1,0 +1,27 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+
+    </style>
+    <style name="Widget.BottomNavigationView"
+        parent="Widget.Design.BottomNavigationView">
+        <item name="fontFamily">@font/montserrat</item>
+    </style>
+    <style name="CustomChipFilter" parent="Widget.MaterialComponents.Chip.Filter">
+        <item name="chipIconTint">@color/colorWhite</item>
+        <item name="font">@font/montserrat</item>
+        <item name="android:textAlignment">viewStart</item>
+        <item name="android:paddingLeft">3dp</item>
+        <item name="android:paddingRight">3dp</item>
+        <item name="rippleColor">@color/colorWhite</item>
+        <item name="android:checkable">true</item>
+        <item name="android:theme">@style/Theme.MaterialComponents.Light</item>
+        <item name="android:textColor">@color/colorWhite</item>
+        <item name="chipBackgroundColor">@color/colorAccent</item>
+    </style>
+</resources>
